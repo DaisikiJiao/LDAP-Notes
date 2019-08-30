@@ -1,0 +1,222 @@
+{
+  "dataType":[
+    {"name":"LDAP.ACI ITEM","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.1"},
+    {"name":"LDAP.Access Point","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.2"},
+    {"name":"LDAP.Attribute Type Description","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.3"},
+    {"name":"LDAP.Audio","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.4"},
+    {"name":"LDAP.Binary","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.5"},
+    {"name":"LDAP.Bit String","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.6"},
+    {"name":"LDAP.Boolean","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.7"},
+    {"name":"LDAP.CSN","type":"DataType","code":"1.3.6.1.4.1.4203.666.11.2.1"},
+    {"name":"LDAP.CSN SID","type":"DataType","code":"1.3.6.1.4.1.4203.666.11.2.4"},
+    {"name":"LDAP.Country String","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.11"},
+    {"name":"LDAP.DIT Content Rule Description","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.16"},
+    {"name":"LDAP.DIT Structure Rule Description","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.17"},
+    {"name":"LDAP.DL Submit Permission","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.18"},
+    {"name":"LDAP.DN","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.12"},
+    {"name":"LDAP.DSA Quality Syntax","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.19"},
+    {"name":"LDAP.DSE Type","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.20"},
+    {"name":"LDAP.Data Quality Syntax","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.13"},
+    {"name":"LDAP.Delivery Method","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.14"},
+    {"name":"LDAP.Deref Alias","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.1.0.11"},
+    {"name":"LDAP.Directory String","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.15"},
+    {"name":"LDAP.Enhanced Guide","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.21"},
+    {"name":"LDAP.Facsimile Telephone Number","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.22"},
+    {"name":"LDAP.Fax","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.23"},
+    {"name":"LDAP.Generalized Time","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.24"},
+    {"name":"LDAP.Guide","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.25"},
+    {"name":"LDAP.IA5 String","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.26"},
+    {"name":"LDAP.INTEGER","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.27"},
+    {"name":"LDAP.JPEG","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.28"},
+    {"name":"LDAP.Java Byte","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.1.0.0"},
+    {"name":"LDAP.Java Int","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.1.0.4"},
+    {"name":"LDAP.Java Long","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.1.0.3"},
+    {"name":"LDAP.Java Short","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.1.0.2"},
+    {"name":"LDAP.LDAP BootstrapSchema Definition","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.56"},
+    {"name":"LDAP.LDAP BootstrapSchema Description","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.57"},
+    {"name":"LDAP.LDAP Syntax Description","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.54"},
+    {"name":"LDAP.MHS OR Address","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.33"},
+    {"name":"LDAP.Mail Preference","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.32"},
+    {"name":"LDAP.Master And Shadow Access Points","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.29"},
+    {"name":"LDAP.Matching Rule Description","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.30"},
+    {"name":"LDAP.Matching Rule Use Description","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.31"},
+    {"name":"LDAP.Modify Rights","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.55"},
+    {"name":"LDAP.Name And Optional UID","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.34"},
+    {"name":"LDAP.Name Form Description","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.35"},
+    {"name":"LDAP.Numeric IDs Or Names","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.0.0.0"},
+    {"name":"LDAP.Numeric OID","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.0.0.2"},
+    {"name":"LDAP.Numeric String","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.36"},
+    {"name":"LDAP.Numeric String","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.0.0.4"},
+    {"name":"LDAP.OID","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.38"},
+    {"name":"LDAP.Object Class Description","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.37"},
+    {"name":"LDAP.Object Class Type","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.0.0.1"},
+    {"name":"LDAP.Object Name","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.0.0.6"},
+    {"name":"LDAP.Octet String","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.40"},
+    {"name":"LDAP.Other Mailbox","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.39"},
+    {"name":"LDAP.Postal Address","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.41"},
+    {"name":"LDAP.Presentation Address","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.43"},
+    {"name":"LDAP.Printable String","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.44"},
+    {"name":"LDAP.Protocol Information","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.42"},
+    {"name":"LDAP.Search Scope","type":"DataType","code":"1.3.6.1.4.1.18060.0.4.1.0.10"},
+    {"name":"LDAP.Substring Assertion","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.58"},
+    {"name":"LDAP.Subtree Specification","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.45"},
+    {"name":"LDAP.Supplier And Consumer","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.48"},
+    {"name":"LDAP.Supplier Information","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.46"},
+    {"name":"LDAP.Supplier Or Consumer","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.47"},
+    {"name":"LDAP.Telephone Number","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.50"},
+    {"name":"LDAP.Teletex Terminal Identifier","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.51"},
+    {"name":"LDAP.Telex Number","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.52"},
+    {"name":"LDAP.Trigger Specification","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.59"},
+    {"name":"LDAP.UTC Time","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.53"},
+    {"name":"LDAP.UUID","type":"DataType","code":"1.3.6.1.1.16.1"},
+    {"name":"LDAP.X.509 Algorithm Identifier","type":"DataType","code":"1.3.6.1.1.15.7"},
+    {"name":"LDAP.X.509 Certificate","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.8"},
+    {"name":"LDAP.X.509 Certificate Assertion","type":"DataType","code":"1.3.6.1.1.15.2"},
+    {"name":"LDAP.X.509 Certificate Exact Assertion","type":"DataType","code":"1.3.6.1.1.15.1"},
+    {"name":"LDAP.X.509 Certificate List","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.9"},
+    {"name":"LDAP.X.509 Certificate List Assertion","type":"DataType","code":"1.3.6.1.1.15.6"},
+    {"name":"LDAP.X.509 Certificate List Exact Assertion","type":"DataType","code":"1.3.6.1.1.15.5"},
+    {"name":"LDAP.X.509 Certificate Pair","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.10"},
+    {"name":"LDAP.X.509 Certificate Pair Assertion","type":"DataType","code":"1.3.6.1.1.15.4"},
+    {"name":"LDAP.X.509 Certificate Pair Exact Assertion","type":"DataType","code":"1.3.6.1.1.15.3"},
+    {"name":"LDAP.X.509 Supported Algorithm","type":"DataType","code":"1.3.6.1.4.1.1466.115.121.1.49"}
+  ],
+  "typeSystem":[
+    {"name":"ID","type":"UniqueKey","code":"ID","type_version":""},
+    {"name":"ID","type":"UniqueKey","code":"ID","type_version":""},
+    {"name":"ID","type":"UniqueKey","code":"ID","type_version":""},
+    {"name":"ID","type":"UniqueKey","code":"ID","type_version":""}
+
+  ],
+  "machine":[
+    {"name":"LDAP目录服务","version":"0","type":"Machine","memo":"","code":"192.168.150.66","owner_id":"","map_key":"","extended_type":"","operate_user_id":"","ip_address":"","mac_address":"192.168.150.66","username":"uid=admin,ou=system","password":"secret","cpu_num":"","cpu_core_num":"","cpu_core_speed":"","memory_size":"","disk_size":"","machine_type":"PHYSICAL","machine_name":"LDAP服务器01"}
+
+  ],
+  "catalog":[
+    {"name":"ldap","version":"3","type":"LDAPCatalog","memo":"","code":"service-ds-directory","owner_id":"","map_key":"","extended_type":"","operate_user_id":"","user_name":"uid=admin,ou=system","password":"secret","parameter":"","is_cluster":"","is_replica":"","port":"10389"}
+
+  ],
+  "schema":[
+    {"name":"ldap","type":"LDAPSchema","code":"service-ds-directory","owner_id":"9ed586222ea54eb3b103d608ff9c2b0d","catalog_id":"9ed586222ea54eb3b103d608ff9c2b0d","username":"uid=admin,ou=system","password":"secret"}
+
+  ],
+  "collection":[
+    {"name":"资源根目录","type":"LDAPDn","code":"dc=dragonsoft,dc=com","owner_id":"5c4f26c3f96f476ebfff5788143db9ac","row_count":"0","last_update":"0","last_update_time":"","db_type":"LDAP","global_code":"LDAP_DC=DRAGONSOFT,DC=COM","cache_level":"","schema_id":"5c4f26c3f96f476ebfff5788143db9ac"},
+    {"name":"服务规约目录","type":"LDAPDn","code":"ou=busServiceStandard,dc=dragonsoft,dc=com","owner_id":"5c4f26c3f96f476ebfff5788143db9ac","row_count":"0","last_update":"0","last_update_time":"","db_type":"LDAP","global_code":"LDAP_OU=BUSSERVICESTANDARD,DC=DRAGONSOFT,DC=COM","cache_level":"","schema_id":"5c4f26c3f96f476ebfff5788143db9ac"},
+    {"name":"服务访问地址目录","type":"LDAPDn","code":"ou=busServiceAccessUrl,dc=dragonsoft,dc=com","owner_id":"5c4f26c3f96f476ebfff5788143db9ac","row_count":"0","last_update":"0","last_update_time":"","db_type":"LDAP","global_code":"LDAP_OU=BUSSERVICEACCESSURL,DC=DRAGONSOFT,DC=COM","cache_level":"","schema_id":"5c4f26c3f96f476ebfff5788143db9ac"},
+    {"name":"服务资源目录","type":"LDAPDn","code":"ou=busServiceBase,dc=dragonsoft,dc=com","owner_id":"5c4f26c3f96f476ebfff5788143db9ac","row_count":"0","last_update":"0","last_update_time":"","db_type":"LDAP","global_code":"LDAP_OU=BUSSERVICEBASE,DC=DRAGONSOFT,DC=COM","cache_level":"","schema_id":"5c4f26c3f96f476ebfff5788143db9ac"},
+    {"name":"服务规约与数据资源映射目录","type":"LDAPDn","code":"ou=busServiceStandardDataM,dc=dragonsoft,dc=com","owner_id":"5c4f26c3f96f476ebfff5788143db9ac","row_count":"0","last_update":"0","last_update_time":"","db_type":"LDAP","global_code":"LDAP_OU=BUSSERVICESTANDARDDATAM,DC=DRAGONSOFT,DC=COM","cache_level":"","schema_id":"5c4f26c3f96f476ebfff5788143db9ac"}
+
+  ],
+  "field":[
+    {"name":"服务规约编号","type":"LDAPAttribute","memo":"","code":"ID","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"32","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"0"},
+    {"name":"服务规约标识符","type":"LDAPAttribute","memo":"","code":"STANDARD_CODE","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"1"},
+    {"name":"服务规约名称","type":"LDAPAttribute","memo":"","code":"STANDARD_NAME","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"100","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"2"},
+    {"name":"服务规约描述","type":"LDAPAttribute","memo":"","code":"STANDARD_DESC","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"3"},
+    {"name":"服务技术规范标准_编号","type":"LDAPAttribute","memo":"","code":"TECHNOLOGY_SPEC_ID","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"4"},
+    {"name":"服务规约管理单位_公安机关机构代码","type":"LDAPAttribute","memo":"","code":"MANAGE_ORG_CODE","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"5"},
+    {"name":"服务规约_版本号","type":"LDAPAttribute","memo":"","code":"STANDARD_VERSION","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"08c20c7d8464402fa247577969dd68e1","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"6"},
+    {"name":"服务描述语言","type":"LDAPAttribute","memo":"","code":"DESCRIPTION_LANGUAGE","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"2","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"7"},
+    {"name":"服务描述内容","type":"LDAPAttribute","memo":"","code":"DESCRIPTION_CONTENT","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"8"},
+    {"name":"服务返回代码","type":"LDAPAttribute","memo":"","code":"RESPONSE_CODE","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"9"},
+    {"name":"服务规约状态","type":"LDAPAttribute","memo":"0：未激活；1：启用；2：停止；3：撤销；","code":"STANDARD_STATUS","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"08c20c7d8464402fa247577969dd68e1","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"10"},
+
+    {"name":"编号","type":"LDAPAttribute","memo":"","code":"ID","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"32","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"0"},
+    {"name":"访问地址","type":"LDAPAttribute","memo":"","code":"ACCESS_URL","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"255","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"1"},
+    {"name":"消息协议代码","type":"LDAPAttribute","memo":"10：SOAP 11：JSON 12：XML 13：HTML 20：GAT1357","code":"MESSAGE_PROTOCOL_CODE","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"2","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"2"},
+    {"name":"传输协议代码","type":"LDAPAttribute","memo":"10：http 11：https 21：ftp 22：ftps","code":"TRANSPORT_PROTOCOL_CODE","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"2","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"3"},
+
+    {"name":"服务资源编号","type":"LDAPAttribute","memo":"","code":"ID","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"32","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"0"},
+    {"name":"服务资源标识符","type":"LDAPAttribute","memo":"","code":"SERVICE_CODE","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"1"},
+    {"name":"服务资源名称","type":"LDAPAttribute","memo":"","code":"SERVICE_NAME","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"200","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"2"},
+    {"name":"服务规约编号","type":"LDAPAttribute","memo":"","code":"STANDARD_ID","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"32","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"3"},
+    {"name":"服务资源描述","type":"LDAPAttribute","memo":"","code":"SERVICE_DESC","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"4"},
+    {"name":"服务资源事权单位_机构代码","type":"LDAPAttribute","memo":"","code":"GOVERMENT_POWER_ORG_CODE","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"5"},
+    {"name":"服务资源管理单位_公安机关机构代码","type":"LDAPAttribute","memo":"","code":"MANAGE_ORG_CODE","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"6"},
+    {"name":"提供服务资源的_应用资源标识","type":"LDAPAttribute","memo":"","code":"APPLICATION_ID","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"7"},
+    {"name":"自用服务_判断标识","type":"LDAPAttribute","memo":"","code":"IF_SELF","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"08c20c7d8464402fa247577969dd68e1","collection_id":"147e435f26c044caa42a82c82938822f","length":"1","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"8"},
+    {"name":"派生服务_判断标识","type":"LDAPAttribute","memo":"","code":"IF_DERIVED","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"08c20c7d8464402fa247577969dd68e1","collection_id":"147e435f26c044caa42a82c82938822f","length":"1","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"9"},
+    {"name":"派生服务的依赖/定义信息","type":"LDAPAttribute","memo":"","code":"DERIVED_SERVICE_DESC","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"10"},
+    {"name":"服务提供方式代码","type":"LDAPAttribute","memo":"","code":"PROVIDE_MODE_CODE","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"2","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"11"},
+    {"name":"服务中介_应用资源编号","type":"LDAPAttribute","memo":"","code":"SERVICE_BROKER_ID","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"32","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"12"},
+    {"name":"服务访问地址编号","type":"LDAPAttribute","memo":"","code":"SERVICE_ACCESS_URL_ID","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"32","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"13"},
+    {"name":"服务类型代码","type":"LDAPAttribute","memo":"","code":"SERVICE_TYPE_CODE","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"2","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"14"},
+    {"name":"服务资源_版本号","type":"LDAPAttribute","memo":"","code":"SERVICE_VERSION","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"08c20c7d8464402fa247577969dd68e1","collection_id":"147e435f26c044caa42a82c82938822f","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"15"},
+    {"name":"服务资源状态代码","type":"LDAPAttribute","memo":"0：未激活；1：启用；2：停止；3：撤销；","code":"SERVICE_STATUS","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"08c20c7d8464402fa247577969dd68e1","collection_id":"147e435f26c044caa42a82c82938822f","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"16"},
+    {"name":"操作理由","type":"LDAPAttribute","memo":"","code":"SERVICE_STATUS","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"256","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"17"},
+
+    {"name":"映射编号","type":"LDAPAttribute","memo":"","code":"ID","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"fee5395abe8044428926f14f678ed328","length":"32","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"0"},
+    {"name":"服务资源标识符","type":"LDAPAttribute","memo":"","code":"SERVICE_CODE","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"fee5395abe8044428926f14f678ed328","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"1"},
+    {"name":"数据资源标识符","type":"LDAPAttribute","memo":"","code":"DATA_CODE","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"fee5395abe8044428926f14f678ed328","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"2"},
+
+
+    {"name":"信息登记单位_公安机关机构代码","type":"LDAPAttribute","memo":"","code":"CREATED_ORG_CODE","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"12","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"11"},
+    {"name":"信息登记人员_姓名","type":"LDAPAttribute","memo":"","code":"CREATED_USER_NAME","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"12"},
+    {"name":"信息登记人员_公民身份号码","type":"LDAPAttribute","memo":"","code":"CREATED_ID_CARD","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"13"},
+    {"name":"信息登记_时间","type":"LDAPAttribute","memo":"","code":"CREATED_TIME","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e6fe5b07a9fe4f84b6a919b2288db25d","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"14"},
+    {"name":"信息操作单位__公安机关机构代码","type":"LDAPAttribute","memo":"","code":"OPERATE_ORG_CODE","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"12","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"15"},
+    {"name":"信息操作人员_姓名","type":"LDAPAttribute","memo":"","code":"OPERATE_USER_NAME","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"16"},
+    {"name":"信息操作人员_公民身份号码","type":"LDAPAttribute","memo":"","code":"OPERATE_ID_CARD","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"17"},
+    {"name":"信息操作_时间","type":"LDAPAttribute","memo":"","code":"OPERATE_TIME","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"e6fe5b07a9fe4f84b6a919b2288db25d","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"18"},
+    {"name":"版本","type":"LDAPAttribute","memo":"","code":"VERSION","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","code_map_id":"","data_type_id":"08c20c7d8464402fa247577969dd68e1","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"19"},
+
+    {"name":"信息登记单位_公安机关机构代码","type":"LDAPAttribute","memo":"","code":"CREATED_ORG_CODE","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"12","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"4"},
+    {"name":"信息登记人员_姓名","type":"LDAPAttribute","memo":"","code":"CREATED_USER_NAME","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"5"},
+    {"name":"信息登记人员_公民身份号码","type":"LDAPAttribute","memo":"","code":"CREATED_ID_CARD","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"6"},
+    {"name":"信息登记_时间","type":"LDAPAttribute","memo":"","code":"CREATED_TIME","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e6fe5b07a9fe4f84b6a919b2288db25d","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"7"},
+    {"name":"信息操作单位__公安机关机构代码","type":"LDAPAttribute","memo":"","code":"OPERATE_ORG_CODE","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"12","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"8"},
+    {"name":"信息操作人员_姓名","type":"LDAPAttribute","memo":"","code":"OPERATE_USER_NAME","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"9"},
+    {"name":"信息操作人员_公民身份号码","type":"LDAPAttribute","memo":"","code":"OPERATE_ID_CARD","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"10"},
+    {"name":"信息操作_时间","type":"LDAPAttribute","memo":"","code":"OPERATE_TIME","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"e6fe5b07a9fe4f84b6a919b2288db25d","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"11"},
+    {"name":"版本","type":"LDAPAttribute","memo":"","code":"VERSION","owner_id":"0c476a4797434dcc9cd894388b160aee","code_map_id":"","data_type_id":"08c20c7d8464402fa247577969dd68e1","collection_id":"0c476a4797434dcc9cd894388b160aee","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"12"},
+
+    {"name":"信息登记单位_公安机关机构代码","type":"LDAPAttribute","memo":"","code":"CREATED_ORG_CODE","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"12","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"18"},
+    {"name":"信息登记人员_姓名","type":"LDAPAttribute","memo":"","code":"CREATED_USER_NAME","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"19"},
+    {"name":"信息登记人员_公民身份号码","type":"LDAPAttribute","memo":"","code":"CREATED_ID_CARD","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"20"},
+    {"name":"信息登记_时间","type":"LDAPAttribute","memo":"","code":"CREATED_TIME","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e6fe5b07a9fe4f84b6a919b2288db25d","collection_id":"147e435f26c044caa42a82c82938822f","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"21"},
+    {"name":"信息操作单位__公安机关机构代码","type":"LDAPAttribute","memo":"","code":"OPERATE_ORG_CODE","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"12","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"22"},
+    {"name":"信息操作人员_姓名","type":"LDAPAttribute","memo":"","code":"OPERATE_USER_NAME","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"23"},
+    {"name":"信息操作人员_公民身份号码","type":"LDAPAttribute","memo":"","code":"OPERATE_ID_CARD","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"147e435f26c044caa42a82c82938822f","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"24"},
+    {"name":"信息操作_时间","type":"LDAPAttribute","memo":"","code":"OPERATE_TIME","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"e6fe5b07a9fe4f84b6a919b2288db25d","collection_id":"147e435f26c044caa42a82c82938822f","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"25"},
+    {"name":"版本","type":"LDAPAttribute","memo":"","code":"VERSION","owner_id":"147e435f26c044caa42a82c82938822f","code_map_id":"","data_type_id":"08c20c7d8464402fa247577969dd68e1","collection_id":"147e435f26c044caa42a82c82938822f","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"26"},
+
+    {"name":"信息登记单位_公安机关机构代码","type":"LDAPAttribute","memo":"","code":"CREATED_ORG_CODE","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"fee5395abe8044428926f14f678ed328","length":"12","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"3"},
+    {"name":"信息登记人员_姓名","type":"LDAPAttribute","memo":"","code":"CREATED_USER_NAME","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"fee5395abe8044428926f14f678ed328","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"4"},
+    {"name":"信息登记人员_公民身份号码","type":"LDAPAttribute","memo":"","code":"CREATED_ID_CARD","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"fee5395abe8044428926f14f678ed328","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"5"},
+    {"name":"信息登记_时间","type":"LDAPAttribute","memo":"","code":"CREATED_TIME","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e6fe5b07a9fe4f84b6a919b2288db25d","collection_id":"fee5395abe8044428926f14f678ed328","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"6"},
+    {"name":"信息操作单位__公安机关机构代码","type":"LDAPAttribute","memo":"","code":"OPERATE_ORG_CODE","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"fee5395abe8044428926f14f678ed328","length":"12","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"7"},
+    {"name":"信息操作人员_姓名","type":"LDAPAttribute","memo":"","code":"OPERATE_USER_NAME","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"fee5395abe8044428926f14f678ed328","length":"50","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"8"},
+    {"name":"信息操作人员_公民身份号码","type":"LDAPAttribute","memo":"","code":"OPERATE_ID_CARD","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e10e476db3d34b11a4f1c86b7e0591fe","collection_id":"fee5395abe8044428926f14f678ed328","length":"18","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"9"},
+    {"name":"信息操作_时间","type":"LDAPAttribute","memo":"","code":"OPERATE_TIME","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"e6fe5b07a9fe4f84b6a919b2288db25d","collection_id":"fee5395abe8044428926f14f678ed328","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"10"},
+    {"name":"版本","type":"LDAPAttribute","memo":"","code":"VERSION","owner_id":"fee5395abe8044428926f14f678ed328","code_map_id":"","data_type_id":"08c20c7d8464402fa247577969dd68e1","collection_id":"fee5395abe8044428926f14f678ed328","length":"0","precision":"0","default_value":null,"unit":null,"not_null":"0","sort_no":"11"}
+
+  ],
+  "uniqueKey":[
+    {"name":"PK_T_BUS_SERVICE_STANDARD_ID","type":"UniqueKey","code":"PK_T_BUS_SERVICE_STANDARD_ID","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","is_primary_key":"1"},
+    {"name":"PK_T_BUS_SERVICE_ACCESS_URL_ID","type":"UniqueKey","code":"PK_T_BUS_SERVICE_ACCESS_URL_ID","owner_id":"0c476a4797434dcc9cd894388b160aee","collection_id":"0c476a4797434dcc9cd894388b160aee","is_primary_key":"1"},
+    {"name":"PK_T_BUS_SERVICE_BASE_ID","type":"UniqueKey","code":"PK_T_BUS_SERVICE_BASE_ID","owner_id":"147e435f26c044caa42a82c82938822f","collection_id":"147e435f26c044caa42a82c82938822f","is_primary_key":"1"},
+    {"name":"PK_T_BUS_SERVICE_STANDARD_DATA_M_ID","type":"UniqueKey","code":"PK_T_BUS_SERVICE_STANDARD_DATA_M_ID","owner_id":"fee5395abe8044428926f14f678ed328","collection_id":"fee5395abe8044428926f14f678ed328","is_primary_key":"1"}
+
+  ],
+  "ukField":[
+    {"uk_id":"5a08b6d40b8c48628151d475623cd8ed","field_id":"91623b14bf964c03bf928096686e7283","sort_no":"0"},
+    {"uk_id":"c066a1d360f842bb8a53d97adadd85a7","field_id":"fb0c4e5ed40140bb9622e3f2a5e6095e","sort_no":"0"},
+    {"uk_id":"3b243a62158041f59fd759565906edaf","field_id":"11927dd2eb114588a9ef57a46319456b","sort_no":"0"},
+    {"uk_id":"9ff2b44e90c34be385e4281140c8f543","field_id":"1e5f0f8f0e5d4e18a984277bfda9030a","sort_no":"0"}
+
+  ],
+  "indexKey":[
+    {"name":"IDX_T_BUS_SERVICE_STANDARD_ID","type":"IndexKey","code":"IDX_T_BUS_SERVICE_STANDARD_ID","owner_id":"64a9da454a9c40d88f97c09fc93bcc6b","collection_id":"64a9da454a9c40d88f97c09fc93bcc6b","implement_way":"","index_type":"唯一索引"},
+    {"name":"IDX_T_BUS_SERVICE_ACCESS_URL_ID","type":"IndexKey","code":"IDX_T_BUS_SERVICE_ACCESS_URL_ID","owner_id":"0c476a4797434dcc9cd894388b160aee","collection_id":"0c476a4797434dcc9cd894388b160aee","implement_way":"","index_type":"唯一索引"},
+    {"name":"IDX_T_BUS_SERVICE_BASE_ID","type":"IndexKey","code":"IDX_T_BUS_SERVICE_BASE_ID","owner_id":"147e435f26c044caa42a82c82938822f","collection_id":"147e435f26c044caa42a82c82938822f","implement_way":"","index_type":"唯一索引"},
+    {"name":"IDX_T_BUS_SERVICE_STANDARD_DATA_M_ID","type":"IndexKey","code":"IDX_T_BUS_SERVICE_STANDARD_DATA_M_ID","owner_id":"fee5395abe8044428926f14f678ed328","collection_id":"fee5395abe8044428926f14f678ed328","implement_way":"","index_type":"唯一索引"}
+
+  ],
+  "ikField":[
+    {"ik_id":"1220262bd23d483bab9ba4010347a354","field_id":"91623b14bf964c03bf928096686e7283","sort_no":"0"},
+    {"ik_id":"fc348877922d4d7ca60f74e7bb46665a","field_id":"fb0c4e5ed40140bb9622e3f2a5e6095e","sort_no":"0"},
+    {"ik_id":"63321c46d4ca438a95454f21742264f8","field_id":"11927dd2eb114588a9ef57a46319456b","sort_no":"0"},
+    {"ik_id":"8046674f50bd43458e13169242b9df1a","field_id":"1e5f0f8f0e5d4e18a984277bfda9030a","sort_no":"0"}
+  ]
+
+}
